@@ -7,7 +7,10 @@ author_profile: true
 
 ## Seminar talks ##
 
-### 2018 - 2021 ###
+### 2018 - 2022 ###
+
+_On the Modular Isomorphism Problem_  
+London Algebra Colloquium (Online), March 24th, 2022_
 
 _A counterexample to the Modular Isomorphism Problem_  
 Algebra Seminar, Leibniz Universit&auml;t Hannover, _Hanover, Germany, December 6th, 2021_

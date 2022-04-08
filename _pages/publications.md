@@ -21,6 +21,10 @@ joint with T. Moede, submitted, 10 pages, 2020.
 
 ## Peer-reviewd articles in journals ##
 
+_The Modular Isomorphism Problem: a survey_  
+_Jahresbericht der Deutschen Mathematikervereinigung_, 40 pages  
+[Journal](https://link.springer.com/article/10.1365/s13291-022-00249-5) | [arXiv:2202.11412](https://arxiv.org/abs/2202.11412)
+
 _Non-isomorphic 2-groups with isomorphic modular group algebras_  
 joint with D. Garc&iacute;a and &Aacute;. del R&iacute;o  
 _Journal f&uuml;r reine und angewandte Mathematik (Crelles Journal)_, 5 pages  
