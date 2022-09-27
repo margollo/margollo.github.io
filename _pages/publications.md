@@ -11,23 +11,24 @@ _Abelian invariants and a reduction theorem for the modular isomorphism problem_
 joint with T. Sakurai and M. Stanojkovski, submitted, 23 pages, 2021.  
 [arXiv: 2110.10025 ](https://arxiv.org/abs/2110.10025)
 
-_Twisted group ring isomorphism problem and infinite cohomology groups_  
-joint with O. Schnabel, submitted, 30 pages, 2020.  
-[arXiv:2011.10129](https://arxiv.org/abs/2011.10129)
-
 _The Modular Isomorphism Problem for small groups -- revisiting Eick's algorithm_  
 joint with T. Moede, submitted, 10 pages, 2020.  
 [arXiv:2010.07030](https://arxiv.org/abs/2010.07030)
 
 ## Peer-reviewd articles in journals ##
 
+_Twisted group ring isomorphism problem and infinite cohomology groups_  
+joint with O. Schnabel  
+ Journal of Pure and Applied Algebra, to appear, 30 pages, 2022.  
+[arXiv:2011.10129](https://arxiv.org/abs/2011.10129)
+
 _The Modular Isomorphism Problem: a survey_  
-_Jahresbericht der Deutschen Mathematikervereinigung_, 40 pages  
+_Jahresbericht der Deutschen Mathematikervereinigung_, **124** (3), 157-196, 2022  
 [Journal](https://link.springer.com/article/10.1365/s13291-022-00249-5) | [arXiv:2202.11412](https://arxiv.org/abs/2202.11412)
 
 _Non-isomorphic 2-groups with isomorphic modular group algebras_  
 joint with D. Garc&iacute;a and &Aacute;. del R&iacute;o  
-_Journal f&uuml;r reine und angewandte Mathematik (Crelles Journal)_, 5 pages  
+_Journal f&uuml;r reine und angewandte Mathematik (Crelles Journal)_, **783**, 269-274, 2022  
 [Journal](https://www.degruyter.com/document/doi/10.1515/crelle-2021-0074/html) | [arXiv:2106.07231](https://arxiv.org/abs/2106.07231)
 
 _On the Modular Isomorphism Problem for groups of class 3_  

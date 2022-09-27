@@ -127,7 +127,13 @@ Oberseminar Algebra, Universit&auml;t Stuttgart, _Stuttgart, Germany, July 7th 2
 
 ## Conference talks ##
 
-### 2019 - 2021 ###
+### 2019 - 2022 ###
+
+_Modular Isomorphism Problem - progress, solution and open challenges_  
+Structure of Group Algebras over Local Rings, _Ambleside, UK, August 23rd - 30th 2022_
+
+_A counterexample to the Modular Isomorphism Problem_  
+Groups St Andrews 2022, _Newcastle, UK, July 30th - August 7th 2022_
 
 _The Modular Isomorphism Problem_  
 Nikolauskonferenz 2021, _Aachen, Germany, December 10th - 11th 2021_
