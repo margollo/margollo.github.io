@@ -13,14 +13,15 @@ joint with T. Sakurai and M. Stanojkovski, submitted, 23 pages, 2021.
 
 ## Peer-reviewd articles in journals ##
 
+_Twisted group ring isomorphism problem and infinite cohomology groups_  
+joint with O. Schnabel  
+_Journal of Pure and Applied Algebra_, **227** (4), 31 pages, 2023.  
+[Journal](https://www.sciencedirect.com/science/article/abs/pii/S0022404922002560) | [arXiv: 2011.10129](https://arxiv.org/abs/2011.10129)
+
+
 _The Modular Isomorphism Problem for small groups -- revisiting Eick's algorithm_  
 _Journal of Computational Algebra_, **1-2**, 7 pages, 2022  
 [Journal](https://www.sciencedirect.com/science/article/pii/S2772827722000018) | [arXiv: 2010.07030](https://arxiv.org/abs/2010.07030)
-
-_Twisted group ring isomorphism problem and infinite cohomology groups_  
-joint with O. Schnabel  
- Journal of Pure and Applied Algebra, 31 pages, 2022.  
-[Journal](https://www.sciencedirect.com/science/article/abs/pii/S0022404922002560) | [arXiv: 2011.10129](https://arxiv.org/abs/2011.10129)
 
 _The Modular Isomorphism Problem: a survey_  
 _Jahresbericht der Deutschen Mathematikervereinigung_, **124** (3), 157-196, 2022  
