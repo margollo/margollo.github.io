@@ -9,8 +9,14 @@ author_profile: true
 
 ### 2018 - 2022 ###
 
+_Units in group rings and representation theory of groups of prime order_  
+Group Theory Seminar, ICMAT, _Madrid, Spain, February 7th, 2023_
+
+_Units in group rings and representation theory of cyclic groups of prime order_  
+Algebra Seminar, University of Manchester, _Manchester, UK, November 29th, 2022_
+
 _On the Modular Isomorphism Problem_  
-London Algebra Colloquium (Online), March 24th, 2022_
+London Algebra Colloquium (Online), _March 24th, 2022_
 
 _A counterexample to the Modular Isomorphism Problem_  
 Algebra Seminar, Leibniz Universit&auml;t Hannover, _Hanover, Germany, December 6th, 2021_
