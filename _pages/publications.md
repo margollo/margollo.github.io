@@ -7,6 +7,10 @@ author_profile: true
 
 ## Preprints ##
 
+_Units in Blocks of Defect 1 and the Zassenhaus Conjecture_  
+joint with F. Eisele, submitted, 29 pages, 2022.  
+[arXiv: 2212.06634 ](https://arxiv.org/abs/2212.06634)
+
 _Abelian invariants and a reduction theorem for the modular isomorphism problem_  
 joint with T. Sakurai and M. Stanojkovski, submitted, 23 pages, 2021.  
 [arXiv: 2110.10025 ](https://arxiv.org/abs/2110.10025)
@@ -17,7 +21,6 @@ _Twisted group ring isomorphism problem and infinite cohomology groups_
 joint with O. Schnabel  
 _Journal of Pure and Applied Algebra_, **227** (4), 31 pages, 2023.  
 [Journal](https://www.sciencedirect.com/science/article/abs/pii/S0022404922002560) | [arXiv: 2011.10129](https://arxiv.org/abs/2011.10129)
-
 
 _The Modular Isomorphism Problem for small groups -- revisiting Eick's algorithm_  
 _Journal of Computational Algebra_, **1-2**, 7 pages, 2022  
