@@ -7,7 +7,13 @@ author_profile: true
 
 ## Seminar talks ##
 
-### 2018 - 2022 ###
+### 2018 - 2023 ###
+
+_The nilpotent decomposition in integral group rings_  
+Seminario di Algebra, Universit&agrave; degli Studi di Trento, _Trento, Italy, June 15th, 2023_
+
+_Units in group rings and representation theory of groups of prime order_  
+Seminario di Algebra, Universit&agrave; degli Studi di Firenze, _Florence, Italy, June 13th, 2023_
 
 _Units in group rings and representation theory of groups of prime order_  
 Group Theory Seminar, ICMAT, _Madrid, Spain, February 7th, 2023_
@@ -133,7 +139,16 @@ Oberseminar Algebra, Universit&auml;t Stuttgart, _Stuttgart, Germany, July 7th 2
 
 ## Conference talks ##
 
-### 2019 - 2022 ###
+### 2019 - 2023 ###
+
+_Modular Isomorphism Problem - progress, solution and open challenges_  
+Groups, Rings and the Yang Baxter Equation, _Blankenberge, Belgium, June 19th - 23rd 2023_
+
+_Modular Isomorphism Problem - progress, solution and open challenges_  
+Groups in Galway, _Galway, Ireland, May 18th - 19th 2023_
+
+_Modular Isomorphism Problem - progress, solution and open challenges_  
+Representations of Finite Groups, _Oberwolfach, Germany, April 16th - 21st 2023_
 
 _Modular Isomorphism Problem - progress, solution and open challenges_  
 Structure of Group Algebras over Local Rings, _Ambleside, UK, August 23rd - 30th 2022_
