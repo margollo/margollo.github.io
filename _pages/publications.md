@@ -7,6 +7,10 @@ author_profile: true
 
 ## Preprints ##
 
+_On integral decomposition of unipotent elements in integral group rings_  
+joint with G. Janssens, submitted, 44 pages, 2023.  
+[arXiv: 2307.14820 ](https://arxiv.org/abs/2307.14820)
+
 _On the modular isomorphism problem for groups of nilpotency class 2 with cyclic center_  
 joint with D. Garc&iacute;a-Lucas, submitted, 19 pages, 2023.  
 [arXiv: 2306.06957 ](https://arxiv.org/abs/2306.06957)

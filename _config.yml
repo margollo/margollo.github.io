@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Leo Margolis"
   avatar           : "LM-minCrop.jpg"
-  bio              : "PostDoctoral Research Fellow"
-  location         : "ICMAT, Madrid"
+  bio              : "PostDoctoral Research Fellooow"
+  location         : "Universidad Aut&oacute;noma de Madrid"
   employer         : 
-  MathSciNet       : ""
+  MathSciNet       : "https://mathscinet.ams.org/mathscinet/author?authorId=1034185"
   email            :  "leo.margolis@icmat.es"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -148,7 +148,7 @@ keep_files:
   - .git
   - .svn
 encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md,md_in_html,md-in-html"
 
 
 # Conversion

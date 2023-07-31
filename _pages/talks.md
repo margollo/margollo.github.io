@@ -7,7 +7,7 @@ author_profile: true
 
 ## Seminar talks ##
 
-### 2018 - 2023 ###
+### 2020 - 2023 ###
 
 _The nilpotent decomposition in integral group rings_  
 Seminario di Algebra, Universit&agrave; degli Studi di Trento, _Trento, Italy, June 15th, 2023_
@@ -45,6 +45,9 @@ Seminar on Nonlinear Algebra, Max Planck Institut f&uuml;r Mathematik in den Nat
 _Abelianization of the unit group of an integral gorup ring_,  
 Algebra Seminar, Vrije Universiteit Brussel, _Brussels, Belgium, April 21st 2020_ (online seminar)
 
+
+### 2017 - 2019 ###
+
 _Orders of units in group rings and blocks of defect 1_,  
 Seminario di Algebra, Universit&agrave; degli Studi di Firenze, _Florence, Italy, November 20th 2019_
 
@@ -65,8 +68,6 @@ Algebra Seminar, Universit&agrave; di Padova, _Padua, Italy, February 22nd 2019_
 
 _A counterexample to the (first) Zassenhaus conjecture_,  
 Oberseminar Algebra, Technische Universit&auml;t Braunschweig, _Braunschweig, Germany, January 22nd 2019_
-
-### 2016 - 2018 ###
 
 _A counterexample to the first Zassenhaus conjecture_,  
 Oberseminar Algebra, Universit&auml;t Stuttgart, _Stuttgart, Germany, December 18th 2018_
@@ -98,6 +99,10 @@ Algebra Seminar Technion, _Haifa, Israel, December 7th 2017_
 _Torsion Units in Integral Group Rings and the Zassenhaus Conjecture_,  
 Group Theory Seminar, Universidad Aut&oacute;noma de Madrid-ICMAT, _Madrid, Spain, October 4th, 2017_
 
+
+
+### 2011 - 2016 ###
+
 _Zassenhaus Conjecture for small groups_,  
 Algebra Seminar Universidad de Murcia, _Murcia, Spain, October 20th 2016_
 
@@ -106,8 +111,6 @@ Algebra Seminar Universitat de Val&egrave;ncia, _Valencia, Spain, September 16th
 
 _Torsion units in Integral Group Rings_,  
 Math Colloquium, Florida Atlantic University, _Boca Raton, Florida, USA, September 2nd 2016_
-
-### 2011 - 2015 ###
 
 _Torsion subgroups in the Unit Group of Integral Group Rings_,  
 Oberseminar Algebra/Zahlentheorie, Universit&auml;t Jena, _Jena, Germany, Decemeber 1st 2015_
