@@ -7,8 +7,6 @@ author_profile: true
 
 ## Seminar talks ##
 
-### 2020 - 2023 ###
-
 _The nilpotent decomposition in integral group rings_  
 Seminario di Algebra, Universit&agrave; degli Studi di Trento, _Trento, Italy, June 15th, 2023_
 
@@ -36,17 +34,20 @@ Algebra Seminar, Univeristy of Lincoln, _Lincoln, UK, May 26th 2021_ (online sem
 _A counterexample to the first Zassenhaus conjecture_,  
 Institute Webinar, IISER Mohali, _Chandigarh, India, April 19th 2021_ (online seminar)
 
+<details markdown="1">
+  <summary>
+
+Older talks
+</summary>
+
 _On the Modular Isomorphism Problem_,  
 Algebra Seminar, Euskal Herriko Unibertsitatea, _Bilbao, Spain, February 3rd 2021_ (online seminar)
-
+  
 _On the Modular Isomorphism Problem_,  
 Seminar on Nonlinear Algebra, Max Planck Institut f&uuml;r Mathematik in den Naturwissenschaften, _Leipzig, Germany, August 25th 2020_
 
 _Abelianization of the unit group of an integral gorup ring_,  
 Algebra Seminar, Vrije Universiteit Brussel, _Brussels, Belgium, April 21st 2020_ (online seminar)
-
-
-### 2017 - 2019 ###
 
 _Orders of units in group rings and blocks of defect 1_,  
 Seminario di Algebra, Universit&agrave; degli Studi di Firenze, _Florence, Italy, November 20th 2019_
@@ -99,10 +100,6 @@ Algebra Seminar Technion, _Haifa, Israel, December 7th 2017_
 _Torsion Units in Integral Group Rings and the Zassenhaus Conjecture_,  
 Group Theory Seminar, Universidad Aut&oacute;noma de Madrid-ICMAT, _Madrid, Spain, October 4th, 2017_
 
-
-
-### 2011 - 2016 ###
-
 _Zassenhaus Conjecture for small groups_,  
 Algebra Seminar Universidad de Murcia, _Murcia, Spain, October 20th 2016_
 
@@ -139,10 +136,10 @@ Oberseminar Algebra, Universit&auml;t Stuttgart, _Stuttgart, Germany, May 18th 2
 _Free subgroups in the Integral Group Ring and dihedral p-critical elements_  
 Oberseminar Algebra, Universit&auml;t Stuttgart, _Stuttgart, Germany, July 7th 2011_
              
+</details>
+
 
 ## Conference talks ##
-
-### 2019 - 2023 ###
 
 _Modular Isomorphism Problem - progress, solution and open challenges_  
 Groups, Rings and the Yang Baxter Equation, _Blankenberge, Belgium, June 19th - 23rd 2023_
@@ -169,6 +166,13 @@ _Counterexamples to the MIP_
 _The small group algebra_  
 The MIP in Murcia, _Murcia, Spain, September 6th - 8th, 2021_
 
+<details markdown="1">
+  <summary>
+
+Older talks
+</summary>
+  
+
 _The influence of the Luthar-Passi method on the study of units in group rings_  
 Group Algebras, Representations and Computation, _Bangalore, India, October 14th - 23rd 2019_  
 Celebrating the 80th birthday of Prof. I.B.S. Passi
@@ -181,8 +185,6 @@ Groups, Rings and Associated Structures, _Spa, Belgium, June 9th - 15th 2019_
 
 _Blocks, characters and units in group rings_  
 Representations of Finite Groups, _Oberwolfach, Germany, March 24th - 30th 2019_
-
-### 2017 - 2018 ###
 
 _Blocks, characters and torsion units in integral group rings_  
 Groups in Madrid 2018, _Madrid, Spain, November 22nd - 23rd 2018_
@@ -209,8 +211,6 @@ Officially not celebrating Eric Jespers' 62nd birthday
 _Zassenhaus Conjecture for small groups_  
 Young Researchers Algebra Conference 2017, _Naples, Italy, May 23rd - 24th 2017_
 
-### 2015 - 2016 ###
-
 _Zassenhaus Conjecture for simple groups_  
 Advances in Group Theory and Applications 2016 - The School, _Vietri sul Mare, Italy, June 6th - 9th 2016_
 
@@ -229,8 +229,6 @@ Groups and their Actions, _Bedlewo, Poland, June 22nd - 25th 2015_
 
 _Torsionsuntergruppen in ganzzahligen Gruppenringen_  
 Gr&uuml;ppchen 2015, _Gie&szlig;en, Germany, March 6th - 7th 2015_
-
-### 2011 - 2015 ###
 
 _Representation Theory Applied to Torsion Units in Group Rings_  
 Darstellungstheorietage 2014, _Kaiserslautern, Germany, November 7th - 8th 2014_
