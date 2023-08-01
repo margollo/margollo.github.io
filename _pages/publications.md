@@ -23,7 +23,7 @@ _Abelian invariants and a reduction theorem for the modular isomorphism problem_
 joint with T. Sakurai and M. Stanojkovski, submitted, 23 pages, 2021.  
 [arXiv: 2110.10025 ](https://arxiv.org/abs/2110.10025)
 
-## Peer-reviewd articles in journals ##
+## Peer-reviewed articles in journals ##
 
 _Twisted group ring isomorphism problem and infinite cohomology groups_  
 joint with O. Schnabel  
