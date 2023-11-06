@@ -25,7 +25,7 @@ _Forum Mathematicum_ (to appear), 19 pages, 2023.
 _Abelian invariants and a reduction theorem for the modular isomorphism problem_  
 joint with T. Sakurai and M. Stanojkovski  
 _Journal of Algebra_, **636**, 533-559, 2023.   
-[Journal][https://www.sciencedirect.com/science/article/abs/pii/S0021869323004374?via%3Dihub] | [arXiv: 2110.10025 ](https://arxiv.org/abs/2110.10025)
+[Journal](https://www.sciencedirect.com/science/article/abs/pii/S0021869323004374?via%3Dihub) | [arXiv: 2110.10025 ](https://arxiv.org/abs/2110.10025)
 
 _Twisted group ring isomorphism problem and infinite cohomology groups_  
 joint with O. Schnabel  
