@@ -11,19 +11,21 @@ _On integral decomposition of unipotent elements in integral group rings_
 joint with G. Janssens, submitted, 44 pages, 2023.  
 [arXiv: 2307.14820 ](https://arxiv.org/abs/2307.14820)
 
-_On the modular isomorphism problem for groups of nilpotency class 2 with cyclic center_  
-joint with D. Garc&iacute;a-Lucas, submitted, 19 pages, 2023.  
-[arXiv: 2306.06957 ](https://arxiv.org/abs/2306.06957)
-
 _Units in Blocks of Defect 1 and the Zassenhaus Conjecture_  
 joint with F. Eisele, submitted, 29 pages, 2022.  
 [arXiv: 2212.06634 ](https://arxiv.org/abs/2212.06634)
 
-_Abelian invariants and a reduction theorem for the modular isomorphism problem_  
-joint with T. Sakurai and M. Stanojkovski, submitted, 23 pages, 2021.  
-[arXiv: 2110.10025 ](https://arxiv.org/abs/2110.10025)
-
 ## Peer-reviewed articles in journals ##
+
+_On the modular isomorphism problem for groups of nilpotency class 2 with cyclic center_  
+joint with D. Garc&iacute;a-Lucas  
+_Forum Mathematicum_ (to appear), 19 pages, 2023.  
+[arXiv: 2306.06957 ](https://arxiv.org/abs/2306.06957)
+
+_Abelian invariants and a reduction theorem for the modular isomorphism problem_  
+joint with T. Sakurai and M. Stanojkovski  
+_Journal of Algebra_, **636**, 533-559, 2023.   
+[Journal][https://www.sciencedirect.com/science/article/abs/pii/S0021869323004374?via%3Dihub] | [arXiv: 2110.10025 ](https://arxiv.org/abs/2110.10025)
 
 _Twisted group ring isomorphism problem and infinite cohomology groups_  
 joint with O. Schnabel  
