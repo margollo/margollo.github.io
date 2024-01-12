@@ -7,6 +7,9 @@ author_profile: true
 
 ## Seminar talks ##
 
+_Modular Isomorphism Problem - progress, solution and open challenges_  
+S&eacute;minaires li&eacute;s &agrave; la th&eacute;orie des groupes &agrave; l'UCLouvain, UC Louvain, _Louvain-la-Neuve, Belgium, November 14th, 2023_
+
 _The nilpotent decomposition in integral group rings_  
 Seminario di Algebra, Universit&agrave; degli Studi di Trento, _Trento, Italy, June 15th, 2023_
 
