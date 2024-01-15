@@ -14,7 +14,7 @@ Before coming to Madrid I had been a PostDoc at the Free University of Brussels 
 
 My main interest lies in understanding group rings and how their structure is connected to the group used to define them. To do that I use mostly group theory and representation theory (ordinary, modular, p-adic and integral), but also some algebraic combinatorics, ring theory, cohomology and computer algebra. 
 
-<cite>News:</cite> Together with Geoffrey Janssens, Martina Lanini and Mima Stanojkovski we are organizing the conference [Groups and their actions: algebraic, geometric and combinatorial aspects](https://gaagc24.github.io/) in the beutiful town of Levico Terme. Please have a look and if you want to learn about knew objects groups act on or deepen your understanding of actions know about already, consider coming.
+<u>News: </u>Together with Geoffrey Janssens, Martina Lanini and Mima Stanojkovski we are organizing the conference [Groups and their actions: algebraic, geometric and combinatorial aspects](https://gaagc24.github.io/) in the beutiful town of Levico Terme. Please have a look and if you want to learn about knew objects groups act on or deepen your understanding of actions know about already, consider coming.
 
 
 
