@@ -11,6 +11,9 @@ main:
 
   - title: "Miscellaneous"
     url: /miscellaneous/
+
+  - title: "Conferences"
+    url: /conferences/
     
 #  - title: "Guide"
 #    url: /markdown/

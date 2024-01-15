@@ -1,0 +1,20 @@
+<details markdown="1">
+  <summary>
+
+*Click meau*
+</summary>
+  
+  <h1> Heading </h1>
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Code
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+
+</details>

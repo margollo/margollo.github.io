@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Conferences"
+permalink: /confrences/
+author_profile: true
+---
+
+## Groups and their actions: algebraic, geometric and combinatorial aspects ##
+
+Together with my colleagues Geoffrey Janssens (UC Louvain), Martina Lanini (Roma Tor Vergata) and Mima Stanojkovski (Trento) we are organizing the conference [Groups and their actions: algebraic, geometric and combinatorial aspects](https://gaagc24.github.io/) in the beutiful town of Levico Terme. We will cover many obejects on which groups are acting and there should be interesting new points of view on groups for everybody, so please consider coming!
+
+## Groups in Madrid ## 
+
+As a group theorist in Madrid I am one of the organizers of the yearly congress Groups in Madrid. [This](https://sites.google.com/view/groupsinmadrid/home) was the last edition (or the next, depending on which time of the year it is).
