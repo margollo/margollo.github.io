@@ -9,11 +9,12 @@ main:
 #  - title: "Research"
 #    url: /research/
 
+  - title: "Conferences"
+    url: /conferences/
+
   - title: "Miscellaneous"
     url: /miscellaneous/
 
-  - title: "Conferences"
-    url: /conferences/
-    
+   
 #  - title: "Guide"
 #    url: /markdown/
