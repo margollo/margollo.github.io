@@ -19,8 +19,8 @@ joint with F. Eisele, submitted, 29 pages, 2022.
 
 _On the modular isomorphism problem for groups of nilpotency class 2 with cyclic center_  
 joint with D. Garc&iacute;a-Lucas  
-_Forum Mathematicum_ (to appear), 19 pages, 2023.  
-[arXiv: 2306.06957 ](https://arxiv.org/abs/2306.06957)
+_Forum Mathematicum_, 19 pages, 2023.  
+[Journal](https://doi.org/10.1515/forum-2023-0237) | [arXiv: 2306.06957 ](https://arxiv.org/abs/2306.06957)
 
 _Abelian invariants and a reduction theorem for the modular isomorphism problem_  
 joint with T. Sakurai and M. Stanojkovski  
@@ -187,5 +187,5 @@ not intended for peer-reviewed publication, since only reproducing an important 
 
 <kbd>ModIsomExt</kbd> (with T. Moede). GAP Package. [Link](https://www.tu-braunschweig.de/index.php?eID=dumpFile&t=f&f=114036&token=7391a74bb71a93524f0dc24d07e5330c3d3cdf6e)
 
-<kbd>HeLP - The Hertweck-Luthar-Passi method</kbd> (with A. B&auml;chle). GAP package. Available from GAP 4.8.3 [Link](http://homepages.vub.ac.be/~abachle/help/) 
+<kbd>HeLP - The Hertweck-Luthar-Passi method</kbd> (with A. B&auml;chle). GAP package. Available from GAP 4.8.3 [Link](https://www.gap-system.org/Packages/help.html) 
 

@@ -7,6 +7,9 @@ author_profile: true
 
 ## Seminar talks ##
 
+_El problema de isomorfismo modular_  
+Seminario García-Rodeja, Universidade de Santiago de Compostela, _Santiago de Compostela, Spain, November 16th, 2023_
+
 _Modular Isomorphism Problem - progress, solution and open challenges_  
 S&eacute;minaires li&eacute;s &agrave; la th&eacute;orie des groupes &agrave; l'UCLouvain, UC Louvain, _Louvain-la-Neuve, Belgium, November 14th, 2023_
 
