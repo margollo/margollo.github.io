@@ -54,7 +54,8 @@ _Journal of Group Theory_ **25** (1), 163-206, 2022
 _Abelianization of the unit group of an integral group ring_  
 joint with A. B&auml;chle and S. Maheshwary  
 _Pacific Journal of Mathematics_ **321** (2), 309-334,  2021  
-[Journal](https://msp.org/pjm/2021/312-2/pjm-v312-n2-p03-p.pdf) | [arXiv: 2004.03173](https://arxiv.org/abs/2004.03173)
+[Journal](https://msp.org/pjm/2021/312-2/pjm-v312-n2-p03-p.pdf) | [arXiv: 2004.03173](https://arxiv.org/abs/2004.03173)  
+[GAP-file](https://github.com/margollo/GAP-code-for-abelianization-of-unit-groups) referred to in the article
 
 _Orders of units in integral group rings and blocks of defect 1_  
 joint with M. Caicedo  
@@ -140,7 +141,7 @@ _On the Prime Graph Question for Integral Group Rings of 4-primary groups I_
 joint with A. B&auml;chle  
 _International Journal of Algebra and Computation_ **27** (6), 731-767, 2017  
 [Journal](http://doi.org/10.1142/S0218196717500357) | [arXiv: 1601.05689](https://arxiv.org/abs/1601.05689)  
-[GAP-file](http://homepages.vub.ac.be/%7Eabachle/check_4_primary_table.g) referred to in the article
+[GAP-file](https://github.com/margollo/GAP-file-to-check-table-in-https-doi.org-10.1142-S0218196717500357) referred to in the article
 
 _Subgroup isomorphism problem for units of integral group rings_  
 _Journal of Group Theory_ **20** (2), 289-307, 2017  
