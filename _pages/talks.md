@@ -7,6 +7,12 @@ author_profile: true
 
 ## Seminar talks ##
 
+_Units in group rings and representation theory of groups of prime order_  
+Seminario de Algebra, Universidade Federal de Minas Gerais, _Belo Horizonte, Brazil, August 9th, 2024_
+
+_Modular Isomorphism Problem - Refined Counterexamples_  
+Seminario de Algebra, Universidade de Brasilia, _Brasilia, Brazil, August 2nd, 2024_
+
 _El problema de isomorfismo modular_  
 Seminario García-Rodeja, Universidade de Santiago de Compostela, _Santiago de Compostela, Spain, November 16th, 2023_
 
@@ -28,6 +34,12 @@ Algebra Seminar, University of Manchester, _Manchester, UK, November 29th, 2022_
 _On the Modular Isomorphism Problem_  
 London Algebra Colloquium (Online), _March 24th, 2022_
 
+<details markdown="1">
+  <summary>
+
+Older talks
+</summary>
+
 _A counterexample to the Modular Isomorphism Problem_  
 Algebra Seminar, Leibniz Universit&auml;t Hannover, _Hanover, Germany, December 6th, 2021_
 
@@ -39,12 +51,6 @@ Algebra Seminar, Univeristy of Lincoln, _Lincoln, UK, May 26th 2021_ (online sem
 
 _A counterexample to the first Zassenhaus conjecture_,  
 Institute Webinar, IISER Mohali, _Chandigarh, India, April 19th 2021_ (online seminar)
-
-<details markdown="1">
-  <summary>
-
-Older talks
-</summary>
 
 _On the Modular Isomorphism Problem_,  
 Algebra Seminar, Euskal Herriko Unibertsitatea, _Bilbao, Spain, February 3rd 2021_ (online seminar)
@@ -147,6 +153,18 @@ Oberseminar Algebra, Universit&auml;t Stuttgart, _Stuttgart, Germany, July 7th 2
 
 ## Conference talks ##
 
+_Units in group rings and representation theory of groups of prime order_  
+Coloquio Latinoamericano de Algebra 2024 (Section Representation Theory), _Santiago, Chile, July 22nd - 26th 2024_
+
+_Modular Isomorphism Problem - refined counterexamples_  
+Escola de Algebra XXVII (Section Representation Theory), _Sao Paulo, Brazil, July 15th - 19th 2024_
+
+_Modular Isomorphism Problem - refined counterexamples_  
+Groups, Rings and Group Rings 2024, Celebrating César Polcino Milies's 80th birthday, _Ubatuba, Brazil, July 8th - 13th 2024_
+
+_Modular Isomorphism Problem - refined counterexamples_  
+Perspectives in Representation Theory, _Coimbra, Portugal, July 1st - 3rd 2024_
+
 _Modular Isomorphism Problem - progress, solution and open challenges_  
 Groups, Rings and the Yang Baxter Equation, _Blankenberge, Belgium, June 19th - 23rd 2023_
 
@@ -162,6 +180,13 @@ Structure of Group Algebras over Local Rings, _Ambleside, UK, August 23rd - 30th
 _A counterexample to the Modular Isomorphism Problem_  
 Groups St Andrews 2022, _Newcastle, UK, July 30th - August 7th 2022_
 
+
+<details markdown="1">
+  <summary>
+
+Older talks
+</summary>
+
 _The Modular Isomorphism Problem_  
 Nikolauskonferenz 2021, _Aachen, Germany, December 10th - 11th 2021_
 
@@ -170,14 +195,7 @@ Memorial Webinar in honour of Prof I.B.S. Passi, _October 26th 2021_ (online)
 
 _Counterexamples to the MIP_  
 _The small group algebra_  
-The MIP in Murcia, _Murcia, Spain, September 6th - 8th, 2021_
-
-<details markdown="1">
-  <summary>
-
-Older talks
-</summary>
-  
+The MIP in Murcia, _Murcia, Spain, September 6th - 8th, 2021_  
 
 _The influence of the Luthar-Passi method on the study of units in group rings_  
 Group Algebras, Representations and Computation, _Bangalore, India, October 14th - 23rd 2019_  
