@@ -7,6 +7,10 @@ author_profile: true
 
 ## Preprints ##
 
+_Identification of non-isomorphic 2-groups with dihedral central quotient and isomorphic modular group algebras_  
+joint with T. Sukarai, submitted, 26 pages, 2024.  
+[arXiv: 2405.08075 ](https://arxiv.org/abs/2405.08075)
+
 _On integral decomposition of unipotent elements in integral group rings_  
 joint with G. Janssens, submitted, 44 pages, 2023.  
 [arXiv: 2307.14820 ](https://arxiv.org/abs/2307.14820)
