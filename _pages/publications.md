@@ -23,7 +23,7 @@ joint with F. Eisele, submitted, 29 pages, 2022.
 
 _On the modular isomorphism problem for groups of nilpotency class 2 with cyclic center_  
 joint with D. Garc&iacute;a-Lucas  
-_Forum Mathematicum_, 19 pages, 2023.  
+_Forum Mathematicum_, **36** (5), 1321-1340, 2024.  
 [Journal](https://doi.org/10.1515/forum-2023-0237) | [arXiv: 2306.06957 ](https://arxiv.org/abs/2306.06957)
 
 _Abelian invariants and a reduction theorem for the modular isomorphism problem_  

@@ -14,8 +14,6 @@ Before coming to Madrid I had been a PostDoc at the Free University of Brussels 
 
 My main interest lies in understanding group rings and how their structure is connected to the group used to define them. To do that I use mostly group theory and representation theory (ordinary, modular, p-adic and integral), but also some algebraic combinatorics, ring theory, cohomology and computer algebra. 
 
-<u>News: </u> The next edition of [Groups in Madrid](https://sites.google.com/view/groupsinmadrid/home) will happen from 17th-18th of October.
-
 
 
 
