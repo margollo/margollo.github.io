@@ -7,19 +7,19 @@ author_profile: true
 
 ## Preprints ##
 
-_Identification of non-isomorphic 2-groups with dihedral central quotient and isomorphic modular group algebras_  
-joint with T. Sukarai, submitted, 26 pages, 2024.  
-[arXiv: 2405.08075 ](https://arxiv.org/abs/2405.08075)
-
 _On integral decomposition of unipotent elements in integral group rings_  
 joint with G. Janssens, submitted, 44 pages, 2023.  
 [arXiv: 2307.14820 ](https://arxiv.org/abs/2307.14820)
 
-_Units in Blocks of Defect 1 and the Zassenhaus Conjecture_  
-joint with F. Eisele, submitted, 29 pages, 2022.  
-[arXiv: 2212.06634 ](https://arxiv.org/abs/2212.06634)
-
 ## Peer-reviewed articles in journals ##
+
+_Identification of non-isomorphic 2-groups with dihedral central quotient and isomorphic modular group algebras_  
+joint with T. Sukarai, to appear in Revista Matemática Iberoamericana, 26 pages, 2024.  
+[arXiv: 2405.08075 ](https://arxiv.org/abs/2405.08075)
+
+_Units in Blocks of Defect 1 and the Zassenhaus Conjecture_  
+joint with F. Eisele, to appear in Revista Matemática Complutense, 29 pages, 2022.  
+[arXiv: 2212.06634 ](https://arxiv.org/abs/2212.06634)
 
 _On the modular isomorphism problem for groups of nilpotency class 2 with cyclic center_  
 joint with D. Garc&iacute;a-Lucas  
