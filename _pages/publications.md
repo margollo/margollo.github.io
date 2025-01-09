@@ -8,7 +8,7 @@ author_profile: true
 ## Preprints ##
 
 _Units in group rings and blocks of Klein four or dihedral defect_  
-joint with F. Eisle, submitted, 17 pages, 2024.  
+joint with F. Eisele, submitted, 17 pages, 2024.  
 [arXiv: 2412.09525 ](https://arxiv.org/abs/2412.09525)
 
 _On integral decomposition of unipotent elements in integral group rings_  
