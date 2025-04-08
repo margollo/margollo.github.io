@@ -18,8 +18,8 @@ joint with G. Janssens, submitted, 44 pages, 2023.
 ## Peer-reviewed articles in journals ##
 
 _Identification of non-isomorphic 2-groups with dihedral central quotient and isomorphic modular group algebras_  
-joint with T. Sukarai, to appear in Revista Matemática Iberoamericana, 26 pages, 2024.  
-[arXiv: 2405.08075 ](https://arxiv.org/abs/2405.08075)
+joint with T. Sukarai, Revista Matemática Iberoamericana, 26 pages, 2025.  
+[Journal](https://ems.press/journals/rmi/articles/14298500) | [arXiv: 2405.08075 ](https://arxiv.org/abs/2405.08075)
 
 _Units in Blocks of Defect 1 and the Zassenhaus Conjecture_  
 joint with F. Eisele, Revista Matemática Complutense, 38 pages, 2024.  

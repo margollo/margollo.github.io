@@ -7,6 +7,9 @@ author_profile: true
 
 ## Seminar talks ##
 
+_The Prime Graph Question for units in integral group rings_  
+Algebra Seminar, Tokyo Univeristy of Science, _Tokyo, Japan, March 13th, 2025_
+
 _Units in group rings and representation theory of groups of prime order_  
 Seminario de Algebra, Universidade Federal de Minas Gerais, _Belo Horizonte, Brazil, August 9th, 2024_
 
@@ -152,6 +155,9 @@ Oberseminar Algebra, Universit&auml;t Stuttgart, _Stuttgart, Germany, July 7th 2
 
 
 ## Conference talks ##
+
+_Refining the negative solutions and varying the coefficient ring in the Modular Isomorphism Problem_  
+Groups, Topology and Applications VI, _Bilbao, Spain, April 3rd - 4th 2025_
 
 _Units in group rings and representation theory of groups of prime order_  
 Coloquio Latinoamericano de Algebra 2024 (Section Representation Theory), _Santiago, Chile, July 22nd - 26th 2024_
