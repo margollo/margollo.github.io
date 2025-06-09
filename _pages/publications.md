@@ -7,15 +7,20 @@ author_profile: true
 
 ## Preprints ##
 
+_The Modular Isomorphism Problem over all fields_  
+joint with T. Sakurai, submitted, 16 pages, 2025.  
+[arXiv: 2505.05902 ](https://arxiv.org/abs/2505.05902)
+
 _Units in group rings and blocks of Klein four or dihedral defect_  
 joint with F. Eisele, submitted, 17 pages, 2024.  
 [arXiv: 2412.09525 ](https://arxiv.org/abs/2412.09525)
 
-_On integral decomposition of unipotent elements in integral group rings_  
-joint with G. Janssens, submitted, 44 pages, 2023.  
-[arXiv: 2307.14820 ](https://arxiv.org/abs/2307.14820)
 
 ## Peer-reviewed articles in journals ##
+
+_On integral decomposition of unipotent elements in integral group rings_  
+joint with G. Janssens, Mathematical Proceedings of the Cambridge Philosophical Society (to appear), 46 pages, 2025.  
+[arXiv: 2307.14820 ](https://arxiv.org/abs/2307.14820)
 
 _Identification of non-isomorphic 2-groups with dihedral central quotient and isomorphic modular group algebras_  
 joint with T. Sukarai, Revista Matemática Iberoamericana, 26 pages, 2025.  
@@ -194,7 +199,9 @@ not intended for peer-reviewed publication, since only reproducing an important 
 
 ## Software ##
 
-<kbd>ModIsomExt</kbd> (with T. Moede). GAP Package. [Link](https://www.tu-braunschweig.de/index.php?eID=dumpFile&t=f&f=114036&token=7391a74bb71a93524f0dc24d07e5330c3d3cdf6e)
+<kbd>ModIsom</kbd> (from version 3.0.0; with B. Eick, D. Garc&iacute;a-Lucas, A. Konovalov, T. Moede) GAP Package. [Link](https://gap-packages.github.io/modisom/) 
+
+<kbd>ModIsomExt</kbd> (with T. Moede). GAP Package. [Link](https://www.tu-braunschweig.de/index.php?eID=dumpFile&t=f&f=114036&token=7391a74bb71a93524f0dc24d07e5330c3d3cdf6e). Almost all funcionality of this package has now been integrated into <kbd>ModIsom</kbd>
 
 <kbd>HeLP - The Hertweck-Luthar-Passi method</kbd> (with A. B&auml;chle). GAP package. Available from GAP 4.8.3 [Link](https://www.gap-system.org/Packages/help.html) 
 
