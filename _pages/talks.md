@@ -166,7 +166,7 @@ _On the Modular Isomorphism Problem_
 Workshop on Computational Group Theory, _Oberwolfach, Germany, June 2nd - 6th 2025_
 
 _Torsion units in integral group rings_  
-Groups and rings talking: conference celebrating &Aacute;ngel del R&iacute;'s 65th birthday, _Murcia, Spain, May 29th - 30th 2025_
+Groups and rings talking: conference celebrating &Aacute;ngel del R&iacute;o's 65th birthday, _Murcia, Spain, May 29th - 30th 2025_
 
 _Refining the negative solutions and varying the coefficient ring in the Modular Isomorphism Problem_  
 Groups, Topology and Applications VI, _Bilbao, Spain, April 3rd - 4th 2025_
