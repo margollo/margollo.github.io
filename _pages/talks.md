@@ -14,7 +14,7 @@ _The Modular Isomorphism Problem_
 Seminario di Algebra e Geometria, Universit&agrave; degli Studi di Palermo, _Palermo, Italy, May 22nd, 2025_
 
 _The Prime Graph Question for units in integral group rings_  
-Algebra Seminar, Tokyo Univeristy of Science, _Tokyo, Japan, March 13th, 2025_
+Algebra Seminar, 東京理科大学, _Tokyo, Japan, March 13th, 2025_
 
 _Units in group rings and representation theory of groups of prime order_  
 Seminario de Algebra, Universidade Federal de Minas Gerais, _Belo Horizonte, Brazil, August 9th, 2024_

@@ -19,7 +19,7 @@ joint with F. Eisele, submitted, 17 pages, 2024.
 ## Peer-reviewed articles in journals ##
 
 _On integral decomposition of unipotent elements in integral group rings_  
-joint with G. Janssens, Mathematical Proceedings of the Cambridge Philosophical Society (to appear), 46 pages, 2025.  
+joint with G. Janssens, Proceedings of the Royal Society of Edinburgh Section A: Mathematics (to appear), 46 pages, 2025.  
 [arXiv: 2307.14820 ](https://arxiv.org/abs/2307.14820)
 
 _Identification of non-isomorphic 2-groups with dihedral central quotient and isomorphic modular group algebras_  
