@@ -7,6 +7,9 @@ author_profile: true
 
 ## Seminar talks ##
 
+_El Problema del Grafo Primo en anillos de grupos_,  
+Seminario de &Agrave;lgebra, Universidad de Murcia, _Murcia, Spain, July 9th 2025_
+
 _On the Modular Isomorphism Problem_  
 Seminar Algebra, Uniwersytet Warszawski, _Warsaw, Poland, June 12th - 13th 2025_
 

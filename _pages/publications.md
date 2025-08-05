@@ -11,23 +11,27 @@ _The Modular Isomorphism Problem over all fields_
 joint with T. Sakurai, submitted, 16 pages, 2025.  
 [arXiv: 2505.05902 ](https://arxiv.org/abs/2505.05902)
 
-_Units in group rings and blocks of Klein four or dihedral defect_  
-joint with F. Eisele, submitted, 17 pages, 2024.  
-[arXiv: 2412.09525 ](https://arxiv.org/abs/2412.09525)
-
 
 ## Peer-reviewed articles in journals ##
 
+_Units in group rings and blocks of Klein four or dihedral defect_  
+joint with F. Eisele, 
+_Bulletin of the London Mathematical Society_, 20 pages, 2025.  
+[Journal](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/blms.70164) | [arXiv: 2412.09525 ](https://arxiv.org/abs/2412.09525)
+
 _On integral decomposition of unipotent elements in integral group rings_  
-joint with G. Janssens, Proceedings of the Royal Society of Edinburgh Section A: Mathematics (to appear), 46 pages, 2025.  
+joint with G. Janssens, 
+_Proceedings of the Royal Society of Edinburgh Section A: Mathematics_ (to appear), 46 pages, 2025.  
 [arXiv: 2307.14820 ](https://arxiv.org/abs/2307.14820)
 
 _Identification of non-isomorphic 2-groups with dihedral central quotient and isomorphic modular group algebras_  
-joint with T. Sukarai, Revista Matemática Iberoamericana, 26 pages, 2025.  
+joint with T. Sukarai, 
+_Revista Matemática Iberoamericana_, **41** (5) 1973-2002, 2025.  
 [Journal](https://ems.press/journals/rmi/articles/14298500) | [arXiv: 2405.08075 ](https://arxiv.org/abs/2405.08075)
 
 _Units in Blocks of Defect 1 and the Zassenhaus Conjecture_  
-joint with F. Eisele, Revista Matemática Complutense, 38 pages, 2024.  
+joint with F. Eisele, 
+_Revista Matemática Complutense_, 38 pages, 2024.  
 [Journal](https://link.springer.com/article/10.1007/s13163-024-00513-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241213&utm_content=10.1007%2Fs13163-024-00513-5) | [arXiv: 2212.06634 ](https://arxiv.org/abs/2212.06634)
 
 _On the modular isomorphism problem for groups of nilpotency class 2 with cyclic center_  
