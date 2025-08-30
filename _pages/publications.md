@@ -7,6 +7,10 @@ author_profile: true
 
 ## Preprints ##
 
+_Where isomorphisms of group algebras fail to lift_  
+joint with T. Sakurai, submitted, 16 pages, 2025.  
+[arXiv: 2508.14169 ](https://arxiv.org/abs/2508.14169)
+
 _The Modular Isomorphism Problem over all fields_  
 joint with T. Sakurai, submitted, 16 pages, 2025.  
 [arXiv: 2505.05902 ](https://arxiv.org/abs/2505.05902)
