@@ -25,7 +25,7 @@ _Bulletin of the London Mathematical Society_, 20 pages, 2025.
 
 _On integral decomposition of unipotent elements in integral group rings_  
 joint with G. Janssens, 
-_Proceedings of the Royal Society of Edinburgh Section A: Mathematics_ (to appear), 46 pages, 2025.  
+_Proceedings of the Royal Society of Edinburgh Section A: Mathematics_, 46 pages, 2025.  
 [Journal](https://www.cambridge.org/core/journals/proceedings-of-the-royal-society-of-edinburgh-section-a-mathematics/article/on-integral-decomposition-of-unipotent-elements-in-integral-group-rings/7FDA0953245AAFC61E54623125330AD8) | [arXiv: 2307.14820 ](https://arxiv.org/abs/2307.14820)
 
 _Identification of non-isomorphic 2-groups with dihedral central quotient and isomorphic modular group algebras_  
