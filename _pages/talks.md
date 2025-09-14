@@ -165,6 +165,9 @@ Oberseminar Algebra, Universit&auml;t Stuttgart, _Stuttgart, Germany, July 7th 2
 
 ## Conference talks ##
 
+_Refining the negative solutions and varying the coefficient ring in the Modular Isomorphism Problem_  
+Young Researchers Algebra Conference 2025, _Firenze, Italy, September 3rd - 5th 2025_
+
 _On the Modular Isomorphism Problem_  
 Workshop on Computational Group Theory, _Oberwolfach, Germany, June 2nd - 6th 2025_
 
