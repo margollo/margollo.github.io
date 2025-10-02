@@ -7,6 +7,10 @@ author_profile: true
 
 ## Preprints ##
 
+_The Herzog-Sch&ouml;nheim conjecture for simple and symmetric groups_  
+joint with M. Garonzi, submitted, 19 pages, 2025.  
+[arXiv: 2509.25118 ](https://arxiv.org/abs/2509.25118)
+
 _Where isomorphisms of group algebras fail to lift_  
 joint with T. Sakurai, submitted, 16 pages, 2025.  
 [arXiv: 2508.14169 ](https://arxiv.org/abs/2508.14169)
