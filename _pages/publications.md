@@ -39,7 +39,7 @@ _Revista Matemática Iberoamericana_, **41** (5) 1973-2002, 2025.
 
 _Units in Blocks of Defect 1 and the Zassenhaus Conjecture_  
 joint with F. Eisele, 
-_Revista Matemática Complutense_, 38 pages, 2024.  
+_Revista Matemática Complutense_, **38** (3) 627-664, 2025.  
 [Journal](https://link.springer.com/article/10.1007/s13163-024-00513-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241213&utm_content=10.1007%2Fs13163-024-00513-5) | [arXiv: 2212.06634 ](https://arxiv.org/abs/2212.06634)
 
 _On the modular isomorphism problem for groups of nilpotency class 2 with cyclic center_  
@@ -96,7 +96,7 @@ _Special volume on the topics of the academic activity at Group Algebras, Repres
 _The twisted group ring isomorphism problem over fields_  
 joint with O. Schnabel  
 _Israel Journal of Mathematics_ **238** (1), 209-242, 2020  
-[Journal](https://link.springer.com/article/10.1007/s11856-020-2017-9) | [arXiv: 1902.04281](https://arxiv.org/abs/1902.04281)
+[Journal](https://link.springer.com/article/10.1007/s11856-020-2017-9) | [Corrigendum](https://link.springer.com/article/10.1007/s11856-021-2125-1) | [arXiv: 1902.04281](https://arxiv.org/abs/1902.04281)
 
 _Finite Subgroups of Group Rings: A survey_  
 joint with &Aacute;. del R&iacute;o  
@@ -150,7 +150,7 @@ _Journal of Software for Algebra and Geometry_ **8**, 1-9, 2018
 _Twisted group ring isomorphism problem_  
 joint with O. Schnabel  
 _The Quarterly Journal of Mathematics_ **69** (4), 1195-1219, 2018  
-[Journal](https://academic.oup.com/qjmath/advance-article/doi/10.1093/qmath/hay020/4982942?guestAccessKey=e3ef5c2b-de97-42e8-b609-d8d11f353856) | [arXiv: 1611.00499](https://arxiv.org/abs/1611.00499)
+[Journal](https://academic.oup.com/qjmath/advance-article/doi/10.1093/qmath/hay020/4982942?guestAccessKey=e3ef5c2b-de97-42e8-b609-d8d11f353856) | [Corrigendum](https://doi.org/10.1093/qmath/haaf010) (with Y. Ginosar) | [arXiv: 1611.00499](https://arxiv.org/abs/1611.00499)
 
 _On the Prime Graph Question for Integral Group Rings of 4-primary groups II_  
 joint with A. B&auml;chle  
