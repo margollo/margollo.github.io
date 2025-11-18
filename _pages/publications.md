@@ -15,16 +15,17 @@ _Where isomorphisms of group algebras fail to lift_
 joint with T. Sakurai, submitted, 16 pages, 2025.  
 [arXiv: 2508.14169 ](https://arxiv.org/abs/2508.14169)
 
-_The Modular Isomorphism Problem over all fields_  
-joint with T. Sakurai, submitted, 16 pages, 2025.  
-[arXiv: 2505.05902 ](https://arxiv.org/abs/2505.05902)
-
 
 ## Peer-reviewed articles in journals ##
 
+_The Modular Isomorphism Problem over all fields_  
+joint with T. Sakurai, 
+_S&atilde;o Paulo Journal of Mathematical Sciences_, **19**, Article number 39, 20 pages, 2025.  
+[Journal](https://link.springer.com/article/10.1007/s40863-025-00517-z) | [arXiv: 2505.05902 ](https://arxiv.org/abs/2505.05902)
+
 _Units in group rings and blocks of Klein four or dihedral defect_  
 joint with F. Eisele, 
-_Bulletin of the London Mathematical Society_, 20 pages, 2025.  
+_Bulletin of the London Mathematical Society_, **57** (11) 3470-3489, 2025.  
 [Journal](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/blms.70164) | [arXiv: 2412.09525 ](https://arxiv.org/abs/2412.09525)
 
 _On integral decomposition of unipotent elements in integral group rings_  
